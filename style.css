@@ -1,0 +1,25 @@
+.heading {
+    text-align: center;
+    
+}
+
+body {
+   font-family: 'Futura Hand';
+   background-color: lightgray;
+}
+
+table {
+    border: 1px solid black;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+
+#addTaskButton{
+    background-color: rgb(9, 210, 9);
+color: black;
+border: 2px solid black;
+border-radius: 5px;
+}
